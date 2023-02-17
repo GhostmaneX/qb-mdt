@@ -1,7 +1,7 @@
 # qb-mdt
 A standard, fully working MDT for QBCore
 
-[![MasterHead](https://tenor.com/view/rainbow-loading-bar-gif-22021110)](https://google.com/)
+[![MasterHead](https://cdn.discordapp.com/attachments/1009569570782195732/1076111898468171827/rainbow-loading-bar.gif)](https://google.com/)
 
 ## Description
 This is a fully working MDT for QBCore. This works for both Law Enforcement + EMS/ambulance jobs. 
