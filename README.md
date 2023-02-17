@@ -1,12 +1,6 @@
 # qb-mdt
 A standard, fully working MDT for QBCore
 
-CREDITS TO PROJECT SLOTH, DO NOT USE THIS MDT, USE PS-MDT.
-
-THIS IS A PRE-RELEASE WIP.
-
-https://github.com/project-sloth/ps-mdt
-
 ## Description
 This is a fully working MDT for QBCore. This works for both Law Enforcement + EMS/ambulance jobs. 
 It includes:
