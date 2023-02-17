@@ -1,6 +1,8 @@
 # qb-mdt
 A standard, fully working MDT for QBCore
 
+![image](https://tenor.com/view/rainbow-loading-bar-gif-22021110)
+
 ## Description
 This is a fully working MDT for QBCore. This works for both Law Enforcement + EMS/ambulance jobs. 
 It includes:
